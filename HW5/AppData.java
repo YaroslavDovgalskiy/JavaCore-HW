@@ -12,9 +12,6 @@ public class AppData {
     private String[] header;
     private Integer[][] data;
 
-    //value1;value2;value3
-    //1;2;3
-    //6;2;3
 
     public String[] getHeader() {
         return header;
